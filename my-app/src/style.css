@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  background-image: url("./images/background.jpg");
+  background-attachment: fixed;
+  font-family: Roboto, sans-serif;
+}
+
+#nav-text {
+  font-size: 23px;
+}
+
+#Our-Text {
+  color: white;
+}
+
+#Gallery-Text {
+  color: #ff9c32;
+}
+
+footer {
+  background-color: #1a1a1a;
+  color: white;
+}
+
+#socials {
+  color: #8f8f8f;
+}
